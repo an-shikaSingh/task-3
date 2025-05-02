@@ -1,0 +1,13 @@
+{
+    "name": "calculator-demo",
+    "version": "1.0.0",
+    "description": "Calculator demo for Git merge conflicts",
+    "main": "calculator.js",
+    "scripts": {
+      "test": "jest",
+      "start": "node calculator.js"
+    },
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
