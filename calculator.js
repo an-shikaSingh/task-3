@@ -8,7 +8,11 @@ class Calculator {
   }
 
   pow(a, b) {
+<<<<<<< HEAD
     return a * b;
+=======
+    return Math.pow(a, b);
+>>>>>>> feature/power
   }
 
   subtract(a, b) {
